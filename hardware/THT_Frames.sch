@@ -3011,7 +3011,7 @@ F 1 "TL072" H 7150 14850 50  0000 C CNN
 F 2 "custom:DIP-8_W7.62mm_Socket_LongPads_silk" H 7150 14650 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7150 14650 50  0001 C CNN
 	1    7150 14650
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Amplifier_Operational:TL072 U5
@@ -3022,7 +3022,7 @@ F 1 "TL072" H 7150 14250 50  0000 C CNN
 F 2 "custom:DIP-8_W7.62mm_Socket_LongPads_silk" H 7150 14050 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7150 14050 50  0001 C CNN
 	2    7150 14050
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Text Label 7650 14650 0    50   ~ 0
 AREF_5
