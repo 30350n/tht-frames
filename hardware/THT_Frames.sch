@@ -3248,9 +3248,9 @@ Text Label 12100 11100 0    50   ~ 0
 P+12V
 Text Label 11500 9250 2    50   ~ 0
 LED_CH2
-Text Label 11500 9950 2    50   ~ 0
-LED_CH3
 Text Label 11500 9750 2    50   ~ 0
+LED_CH3
+Text Label 11500 9950 2    50   ~ 0
 LED_CH4
 Text Label 11500 9450 2    50   ~ 0
 LED_FRAME
