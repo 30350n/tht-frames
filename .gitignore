@@ -1,0 +1,6 @@
+*.sch-bak
+*.kicad_pcb-bak
+*.gbr
+*.drl
+hardware/fp-info-cache
+hardware/sym-lib-table
