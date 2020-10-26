@@ -465,7 +465,7 @@ U 1 1 5F1EBF12
 P 8400 10350
 F 0 "Q1" H 8590 10396 50  0000 L CNN
 F 1 "2N3904" H 8590 10305 50  0000 L CNN
-F 2 "custom:TO-92_Inline_silk" H 8600 10275 50  0001 L CIN
+F 2 "custom:TO-92_Inline_Wide_silk" H 8600 10275 50  0001 L CIN
 F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 8400 10350 50  0001 L CNN
 	1    8400 10350
 	1    0    0    -1  
@@ -2096,7 +2096,7 @@ U 1 1 619A0BDA
 P 11600 2150
 F 0 "C24" H 11718 2196 50  0000 L CNN
 F 1 "1uF" H 11718 2105 50  0000 L CNN
-F 2 "custom:C_Disc_D5.0mm_W2.5mm_P5.00mm_silk" H 11638 2000 50  0001 C CNN
+F 2 "custom:C_Disc_D7.5mm_W5.0mm_P5.00mm_silk" H 11638 2000 50  0001 C CNN
 F 3 "~" H 11600 2150 50  0001 C CNN
 	1    11600 2150
 	1    0    0    -1  
@@ -2107,7 +2107,7 @@ U 1 1 619A4C28
 P 12000 2150
 F 0 "C28" H 12118 2196 50  0000 L CNN
 F 1 "1uF" H 12118 2105 50  0000 L CNN
-F 2 "custom:C_Disc_D5.0mm_W2.5mm_P5.00mm_silk" H 12038 2000 50  0001 C CNN
+F 2 "custom:C_Disc_D7.5mm_W5.0mm_P5.00mm_silk" H 12038 2000 50  0001 C CNN
 F 3 "~" H 12000 2150 50  0001 C CNN
 	1    12000 2150
 	1    0    0    -1  
@@ -2188,7 +2188,7 @@ U 1 1 61D48AB3
 P 11600 4150
 F 0 "C25" H 11718 4196 50  0000 L CNN
 F 1 "1uF" H 11718 4105 50  0000 L CNN
-F 2 "custom:C_Disc_D5.0mm_W2.5mm_P5.00mm_silk" H 11638 4000 50  0001 C CNN
+F 2 "custom:C_Disc_D7.5mm_W5.0mm_P5.00mm_silk" H 11638 4000 50  0001 C CNN
 F 3 "~" H 11600 4150 50  0001 C CNN
 	1    11600 4150
 	1    0    0    -1  
@@ -2199,7 +2199,7 @@ U 1 1 61D48AB9
 P 12000 4150
 F 0 "C29" H 12118 4196 50  0000 L CNN
 F 1 "1uF" H 12118 4105 50  0000 L CNN
-F 2 "custom:C_Disc_D5.0mm_W2.5mm_P5.00mm_silk" H 12038 4000 50  0001 C CNN
+F 2 "custom:C_Disc_D7.5mm_W5.0mm_P5.00mm_silk" H 12038 4000 50  0001 C CNN
 F 3 "~" H 12000 4150 50  0001 C CNN
 	1    12000 4150
 	1    0    0    -1  
@@ -3118,7 +3118,7 @@ U 1 1 5F426B9D
 P 5750 14400
 F 0 "U4" V 5796 14312 50  0000 R CNN
 F 1 "LM4040AIZ-10" V 5705 14312 50  0000 R CNN
-F 2 "custom:TO-92_Inline_silk" H 5750 14200 50  0001 C CIN
+F 2 "custom:TO-92_Inline_Wide_silk" H 5750 14200 50  0001 C CIN
 F 3 "http://www.ti.com/lit/ds/symlink/lm4040-n.pdf" H 5750 14400 50  0001 C CIN
 	1    5750 14400
 	0    -1   -1   0   
