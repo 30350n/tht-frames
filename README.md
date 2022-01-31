@@ -10,6 +10,11 @@ You can also pickup a matching APM32 board if you want for a little cheaper. I'v
 
 It also uses a different dac than the original, because it isn't available as a DIP package.
 
+## Panels
+
+Be sure to check out my [printable-instruments](https://github.com/30350n/printable-instruments) repository, which contains pcb panels for several Mutable Instuments modules including Frames.
+That being said, any third-party panels should also fit with these boards.
+
 ## How to use
 
 ### Quickstart
@@ -24,7 +29,9 @@ If you want to export the gerbers yourself or modify them, just clone the reposi
 
 This project requires slightly modified software, because it uses two 2-channel DACs instead of the single 4-channel DAC the original uses.
 
-If you want to build the software yourself, clone the [mutable-dev-environment](https://github.com/pichenettes/mutable-dev-environment) repository and follow the provided instructions to set it up. After that, copy the patch from this repository (`software/tht-frames.patch`) to `mutable-dev-environment/eurorack-modules` and also `cd` to that directory. Finally apply the patch via `git apply tht-frames.patch` and build the firmware as usual.
+If you want to build the software yourself, clone the [mutable-dev-environment](https://github.com/pichenettes/mutable-dev-environment) repository and follow the provided instructions to set it up.
+After that, copy the patch from this repository (`software/tht-frames.patch`) to `mutable-dev-environment/eurorack-modules` and also `cd` to that directory.
+Finally apply the patch via `git apply tht-frames.patch` and build the firmware as usual.
 
 ## Credits
 - **[Mutable Instruments](https://github.com/pichenettes/eurorack)** provided the original hardware design files and software which this projects builds upon.
